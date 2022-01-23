@@ -1,0 +1,14 @@
+@media(max-width:991px){
+    .nav_bar{
+        display: flex;
+        justify-content: center;
+
+    }
+}
+@media(max-width:991px){
+    .logo h2{
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+}

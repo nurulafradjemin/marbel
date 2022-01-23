@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration:none;
+}
+:root{
+    --primary_color:#4e4e4e;
+    --secondary_color: #f3f3f3;
+    --secondary_color_2: #a8a8a8;
+}
+/* header part start */
+
+/* navigation part start */
+
+.nav_bar{
+padding: 20px 0;
+background-color: #e5e5e5;
+}
+.logo h2{
+    font-size: 30px;
+    color: var(--primary_color);
+}
+.menu li{
+    padding: 0 10px ;
+}
+.menu li a{
+    font-size: 16px;
+    text-decoration: none;
+    color: var(--primary_color);
+}
+.menu li a:hover{
+    color: #1abb9c;
+}
+/* navigation part end */
+
+/* slider part start */
+.slider_part{
+    background: url(../img/slider_img.jpg);
+    padding: 200px 0;
+    text-align: center;
+}
+.slider_part > .container > h2{
+    font-size: 40px;
+    color: var(--secondary_color);
+}
+.slider_part > .container > h3{
+    font-size: 32px;
+    color: var(--secondary_color_2);
+    padding: 50px 0;
+}
+.btn {
+    height: 45px;
+    width: 140px;
+    background: #3f8dbf;
+    border: 2px solid #3f8dbf;
+}
+.btn a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.btn:hover{
+    background: none;
+    border: 2px solid #3f8dbf;
+}
+/* slider part end */
+/* header part end */
+
+/* service part start */
+.service_part{
+    padding: 60px 0 20px;
+}
+.service_icon_1{
+    height: 90px;
+    width: 90px;
+    border-radius:50%;
+    background: #9d9abf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.service_icon_2{
+    height: 90px;
+    width: 90px;
+    border-radius:50%;
+    background: #d2514b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.service_icon_3
+{
+    height: 90px;
+    width: 90px;
+    border-radius:50%;
+    background: #66a3c6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.service_icon_4{
+    height: 90px;
+    width: 90px;
+    border-radius:50%;
+    background: #e8c04f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.service_con{
+    padding: 25px 0;
+}
+.service_con h5{
+    font-size: 18px;
+    color: var(--primary_color);
+    font-weight: 600;
+}
+.service_con p{
+    font-size: 14px;
+    color: #616161;
+}
+/* service part end */
+
+/* work Part start */
+.work_head{
+    padding: 60px 0 20px;
+    border-top: 2px solid var(--secondary_color_2);
+}
+.work_head h4{
+    font-size: 18px;
+    color: var(--primary_color);
+    font-weight: 600;
+}
+.work_con h5{
+    font-size: 18px;
+    color: var(--primary_color);
+    font-weight: 600;
+    padding: 25px 0 0 0;
+}
+.work_con h6{
+    font-size: 13px;
+    color: var(--secondary_color_2);
+    font-weight: 600;
+    padding: 0 0 15px 0;
+}
+.work_con p{
+    font-size: 14px;
+    color:#5c5c5c;
+    padding-bottom: 25px;
+}
+/* work Part end */
+
+/* statement part start*/
+.statement_part{
+    padding: 60px 0;
+    background: #efefef;
+}
+.statement_head{
+    padding-bottom: 30px;
+}
+.statement_con p{
+    font-size: 20px;
+    color: #a1a1a1;
+}
+/* statement part end*/
+
+/* contract part start */
+
+.contract_part{
+    background: #1e1e1e;
+}
+.contract_con h4{
+    font-size: 18px;
+    color: #6c6c6c;
+    font-weight: 1000;
+    padding: 50px 0 10px;
+}
+.contract_con p{
+    font-size: 14px;
+    color: #cacaca;
+}
+address i, .phone i, .email i{
+    font-size: 14px;
+    color: #a89574;
+    padding-right: 15px;
+}
+.para i{
+    font-size: 14px;
+    color: #a89574;
+    padding-right: 15px;
+}
+
+/* contract part end */
+
+/* footer part start */
+footer{
+    background: #1e1e1e;
+    padding: 20px 0 10px;
+}
+footer .container p{
+    font-size: 14px;
+    color: #cacaca;
+}
+footer .container{
+    border-top: 2px solid #383838;
+    padding-top: 30px;
+}
+
+/* footer part end */
+
+
+
+
+
+
+/* contract part start */
+
+
+/* contract part end */

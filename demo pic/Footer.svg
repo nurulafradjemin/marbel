@@ -1,0 +1,127 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 459" width="1600" height="459">
+	<title>Footer</title>
+	<defs>
+		<image  width="13" height="10" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAKCAMAAABYMCT2AAAAAXNSR0IB2cksfwAAAIdQTFRFqJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0PGeRTQAAAC10Uk5TAAIJGqU3Sw3J/9hPH/qjl+kdA7UKVOP5WARx/ZUBMH2czg4IXPz+881wJzMhHjYK0gAAAFxJREFUeJxjYIABRgjFBCKYWVghPDYgg52Dk4sbzOPh5eXj5+TkFBAE8YRYOCFAWATEFRUDc8QlJMFqpaRBPBkgS1ZOXkERrE4JJKGsoqiqpq6hqQyzV0tbB6IFAPGvBTma9LQBAAAAAElFTkSuQmCC"/>
+		<image  width="13" height="10" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAKCAMAAABYMCT2AAAAAXNSR0IB2cksfwAAAIdQTFRFqJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0PGeRTQAAAC10Uk5TAAIJGqU3Sw3J/9hPH/qjl+kdA7UKVOP5WARx/ZUBMH2czg4IXPz+881wJzMhHjYK0gAAAFxJREFUeJxjYIABRgjFBCKYWVghPDYgg52Dk4sbzOPh5eXj5+TkFBAE8YRYOCFAWATEFRUDc8QlJMFqpaRBPBkgS1ZOXkERrE4JJKGsoqiqpq6hqQyzV0tbB6IFAPGvBTma9LQBAAAAAElFTkSuQmCC"/>
+		<image  width="13" height="10" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAKCAMAAABYMCT2AAAAAXNSR0IB2cksfwAAAIdQTFRFqJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0qJV0PGeRTQAAAC10Uk5TAAIJGqU3Sw3J/9hPH/qjl+kdA7UKVOP5WARx/ZUBMH2czg4IXPz+881wJzMhHjYK0gAAAFxJREFUeJxjYIABRgjFBCKYWVghPDYgg52Dk4sbzOPh5eXj5+TkFBAE8YRYOCFAWATEFRUDc8QlJMFqpaRBPBkgS1ZOXkERrE4JJKGsoqiqpq6hqQyzV0tbB6IFAPGvBTma9LQBAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #e5e5e5 } 
+		.s1 { opacity: .1;fill: #ffffff } 
+		.t2 { font-size: 14px;line-height: 22px;fill: #cacaca;font-weight: 400;font-family: "Roboto-Regular", "Roboto" } 
+		.t3 { font-size: 18px;line-height: 22px;fill: #6c6c6c;font-weight: 700;font-family: "RobotoCondensed-Bold", "Roboto Condensed" } 
+		.t4 { font-size: 14px;line-height: 24px;fill: #cacaca;font-weight: 400;font-family: "Roboto-Regular", "Roboto" } 
+		.s5 { fill: #a89574 } 
+		.t6 { font-size: 12px;line-height: 25px;fill: #cacaca;font-weight: 400;font-family: "RobotoSlab-Regular", "Roboto Slab" } 
+	</style>
+	<g id="Footer">
+		<path id="Footer Bg" class="s0" d="m1600 0v459h-1600v-459h1600z" />
+		<path id="Footer Line" class="s1" d="m215 345h1170v2h-1170v-2z" />
+		<g id="Copyright">
+			<text id="© 2013 Marble. All rights reserved. Theme by elemis." style="transform: matrix(1,0,0,1,215,398)" >
+				<tspan x="0" y="10" class="t2">©</tspan><tspan  y="10" class="t2"> 2013 Marble. All rights reserved. Theme by elemis.
+</tspan>
+			</text>
+		</g>
+		<g id="Get in Touch">
+			<text id="Get In Touch" style="transform: matrix(1,0,0,1,215,63)" >
+				<tspan x="0" y="0" class="t3">GET IN TOUCH
+</tspan>
+			</text>
+			<text id="Fusce dapibus, tellus commodo, tortor mauris condimentum utellu" style="transform: matrix(1,0,0,1,214,89)" >
+				<tspan x="0" y="10" class="t4">F</tspan><tspan  y="10" class="t4">usce dapibus, tellus commodo, tortor </tspan>
+				<tspan x="0" y="34" class="t4">mauris condimentum utellus fermentum, </tspan>
+				<tspan x="0" y="58" class="t4">porta sem malesuada magna. 
+</tspan>
+			</text>
+			<text id="Moonshine Street No: 14/05  Light City, Jupiter 0247 541 65 87 " style="transform: matrix(1,0,0,1,239,185)" >
+				<tspan x="0" y="10" class="t4">M</tspan><tspan  y="10" class="t4">oonshine Street No: 14/05 
+</tspan>
+				<tspan x="0" y="34" class="t4">Light City, Jupiter
+</tspan>
+				<tspan x="0" y="58" class="t4">0247 541 65 87
+</tspan>
+				<tspan x="0" y="82" class="t4">support@longwave.com
+</tspan>
+			</text>
+			<path id="Phone" class="s5" d="m224 240c-0.55 0-1-0.45-1-1v-1c0-0.41 0.24-0.75 0.59-0.91l-0.72 0.06c-0.08-0.35-0.26-0.69-0.67-0.67c-0.81 0.04-3.96-0.13-4.5 0.04c-0.41 0.14-0.55 0.47-0.63 1.14l-0.14 0.01c0.04 0.1 0.07 0.21 0.07 0.32v1c0 0.55-0.45 1-1 1c-0.55 0-1-0.45-1-1v-1c0-0.06 0.02-0.1 0.03-0.16l0 0c0 0 0 0 0 0c0.02-0.1 0.04-0.2 0.09-0.29c0.42-1.33 2.39-2.29 2.96-2.43c0.6-0.15 1.4-0.17 2.3-0.18c0.57-0.01 0.46 0.14 1.52 0.1c1.06-0.04 3.11 1.93 3.11 1.93l-0.8 0.07c0.46 0.09 0.8 0.48 0.8 0.96v1c0 0.55-0.45 1-1 1zm-8.3 3.06c0.8-0.96 2.15-2.5 3.11-3.21c1.33-0.98 2.19-0.09 5.34 3.18c0.44 0.07 0.77 0.41 0.82 0.85c0.02 0.02 0.03 0.04 0.05 0.06l-0.04 0c0 0.02 0.01 0.04 0.01 0.06c0 0.55-0.45 1-1 1h-8c-0.55 0-1-0.45-1-1c0-0.45 0.3-0.81 0.7-0.94zm4.17 0.53c0.72 0 1.31-0.58 1.31-1.31c0-0.72-0.58-1.31-1.31-1.31c-0.72 0-1.31 0.58-1.31 1.31c0 0.72 0.58 1.31 1.31 1.31z" />
+			<path id="Message small" class="s5" d="m219.04 264.41l1.96 1.26l1.98-1.28l3.28 3.6h-10.48l3.25-3.58zm-4.06 2.69l0.01-6.24l3.3 2.95l-3.32 3.29zm11.28-7.09l-5.23 4.52l-5.16-4.52h10.39zm-2.54 3.8l3.25-2.95l0.01 6.13l-3.27-3.18z" />
+			<path id="Fill" class="s5" d="m222.61 191.65l-3.12 5.72l-3.21-5.69c-0.15-0.21-0.27-0.43-0.38-0.67l-0.01-0.02h0c-0.2-0.47-0.31-0.98-0.31-1.51c0-2.12 1.72-3.84 3.84-3.84c2.12 0 3.84 1.72 3.84 3.84c0 0.8-0.25 1.55-0.67 2.17zm-3.17-3.95c-0.91 0-1.66 0.74-1.66 1.66c0 0.91 0.74 1.66 1.66 1.66c0.91 0 1.66-0.74 1.66-1.66c0-0.91-0.74-1.66-1.66-1.66z" />
+		</g>
+		<g id="Twitter">
+			<text id="Twitter" style="transform: matrix(1,0,0,1,518,63)" >
+				<tspan x="0" y="0" class="t3">TWITTER
+</tspan>
+			</text>
+			<text id="Aenean lacinia bibendum nulla sed leo posuere erat a ante venen" style="transform: matrix(1,0,0,1,541,89)" >
+				<tspan x="0" y="10" class="t4">A</tspan><tspan  y="10" class="t4">enean lacinia bibendum nulla sed </tspan>
+				<tspan x="0" y="34" class="t4">leo posuere erat a ante venenatis </tspan>
+				<tspan x="0" y="58" class="t4">dapibus posuere velit aliquet.
+</tspan>
+				<tspan x="0" y="106" class="t4">Donec ullamcorper metus auctor </tspan>
+				<tspan x="0" y="130" class="t4">fringilla. Nullam quis risus eget.
+</tspan>
+				<tspan x="0" y="178" class="t4">Vestibulum id ligula porta  euismod </tspan>
+				<tspan x="0" y="202" class="t4">semper. Maecenas faucibus mollis.
+</tspan>
+			</text>
+			<use id="Layer 15" href="#img1" x="516" y="89" />
+			<use id="Layer 17 copy" href="#img2" x="516" y="185" />
+			<use id="Layer 17 copy 2" href="#img3" x="516" y="257" />
+		</g>
+		<g id="Popular Posts">
+			<text id="Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusc" style="transform: matrix(1,0,0,1,819.828,240)" >
+				<tspan x="0" y="10" class="t2">P</tspan><tspan  y="10" class="t2">ellentesque ornare sem lacinia </tspan>
+				<tspan x="0" y="32" class="t2">quam venenatis vestibulum. Fusce </tspan>
+				<tspan x="0" y="54" class="t2">dapibus, tellus ac cursus </tspan>
+				<tspan x="0" y="76" class="t2">commodo, tortor mauris </tspan>
+				<tspan x="0" y="98" class="t2">condimentum nibh, ut fermentum </tspan>
+				<tspan x="0" y="120" class="t2">massa justo sit amet risus.
+</tspan>
+			</text>
+			<text id="15 July, 2012 " style="transform: matrix(1,0,0,1,820,294.25)" >
+				<tspan x="0" y="0" class="t6">1</tspan><tspan  y="0" class="t6">5 July, 2012 
+</tspan>
+			</text>
+			<text id="Scelerisque nisl consectetur et." style="transform: matrix(1,0,0,1,820,176)" >
+				<tspan x="0" y="10" class="t2">S</tspan><tspan  y="10" class="t2">celerisque nisl consectetur et.
+</tspan>
+			</text>
+			<text id="22 May, 2012 " style="transform: matrix(1,0,0,1,820,209.25)" >
+				<tspan x="0" y="0" class="t6">2</tspan><tspan  y="0" class="t6">2 May, 2012 
+</tspan>
+			</text>
+			<text id="Vivamus sagittis lacus vel augue laoreet rutrum dolor auctor." style="transform: matrix(1,0,0,1,820,89)" >
+				<tspan x="0" y="10" class="t2">V</tspan><tspan  y="10" class="t2">ivamus sagittis lacus vel augue </tspan>
+				<tspan x="0" y="32" class="t2">laoreet rutrum dolor auctor.
+</tspan>
+			</text>
+			<text id="14 Nov, 2012 " style="transform: matrix(1,0,0,1,820,144.25)" >
+				<tspan x="0" y="0" class="t6">1</tspan><tspan  y="0" class="t6">4 Nov, 2012 
+</tspan>
+			</text>
+			<text id="Popular Posts" style="transform: matrix(1,0,0,1,820,63)" >
+				<tspan x="0" y="0" class="t3">P</tspan><tspan  y="0" class="t3">OPULAR POSTS
+</tspan>
+			</text>
+		</g>
+		<g id="Contact Form">
+			<text id="Vestibulum id ligula porta felis euismod semper. Duis mollis, e" style="transform: matrix(1,0,0,1,1124,89)" >
+				<tspan x="0" y="10" class="t2">V</tspan><tspan  y="10" class="t2">estibulum id ligula porta felis euismod </tspan>
+				<tspan x="0" y="32" class="t2">semper. Duis mollis, est non commodo </tspan>
+				<tspan x="0" y="54" class="t2">luctus, nisi erat porttitor ligula, eget </tspan>
+				<tspan x="0" y="76" class="t2">lacinia odio sem nec elit. 
+</tspan>
+				<tspan x="0" y="120" class="t2">Cum sociis natoque penatibus et </tspan>
+				<tspan x="0" y="142" class="t2">magnis dis parturient montes, nascetur </tspan>
+				<tspan x="0" y="164" class="t2">ridiculus mus curabitur blandit tempus.
+</tspan>
+			</text>
+			<text id="About Us" style="transform: matrix(1,0,0,1,1123,62)" >
+				<tspan x="0" y="0" class="t3">A</tspan><tspan  y="0" class="t3">BOUT US
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
